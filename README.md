@@ -1,0 +1,1 @@
+# ctf_task_aMazeing
